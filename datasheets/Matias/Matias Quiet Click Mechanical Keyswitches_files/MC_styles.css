@@ -1,0 +1,972 @@
+.MCbodytext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	line-height: 1.5;
+}
+.MCbodyheading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+}
+.MCbodyquote {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 16px;
+}
+.picspacerL {
+	margin-left: 15px;
+	float: right;
+}
+.MCsidebarheading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #003399;
+}
+.MCsidebartext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 13px;
+}
+.MCpicspacerLB10 {
+	margin-left: 5px;
+}
+.MCsidebarQuote {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	font-weight: bold;
+}
+</style>
+.MCborderRptTop {
+	background-color: #FFFFFF;
+	background-image: url(headings_gfx/border_T.gif);
+	background-repeat: repeat-x;
+}
+.MCborderRptTop {
+	background-color: #FFFFFF;
+	background-image:  url(http://matias.ca/resources/site_gfx/border_T.gif);
+	background-repeat: repeat-x;
+}
+.MCborderRptBot {
+	background-color: #FFFFFF;
+	background-image:  url(http://matias.ca/resources/site_gfx/border_B.gif);
+	background-repeat: repeat-x;
+}
+.MCborderRptLeft {
+	background-color: #FFFFFF;
+	background-image:  url(http://matias.ca/resources/site_gfx/border_L.gif);
+	background-repeat: repeat-y;
+}
+.MCborderRptRight {
+	background-color: #FFFFFF;
+	background-image:  url(http://matias.ca/resources/site_gfx/border_R.gif);
+	background-repeat: repeat-y;
+}
+.MCbodyCaption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	line-height: 16px;
+}
+.MCpicspacerL {
+	float: left;
+	margin-bottom: 17px;
+	margin-right: 20px;
+	clear: none;
+}
+.MCbottomBumper {
+	margin-bottom: 25px;
+}
+.MCsidebarList {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	list-style-type: disc;
+	list-style-position: outside;
+}
+.MCsidebartext2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.MCsidebarQuote2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	font-weight: bold;
+}
+.MCsidebarheading2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #003399;
+}
+a:link {
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: normal;
+	color: #003399;
+	text-decoration: none;
+}
+a:hover {
+	font-weight: normal;
+	color: #003399;
+	text-decoration: underline;
+}
+.MCbottomNav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	line-height: 16px;
+	font-weight: bold;
+}
+
+.MCbottomNavBox {
+	width: 730px;
+}
+
+.MCinfotable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.MCsidebarQuote3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 13px;
+}
+.MCsidebartext3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 12px;
+}
+.MCsidebarheading3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 12px;
+}
+.MCcleared {
+	clear: both;
+}
+.MCbodytextCopy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	line-height: 18px;
+}
+.MClistmenu1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 5px;
+	height: 18px;
+}
+.MCinfotable2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+}
+.MCbodytextNSp {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	line-height: normal;
+}
+.MCviewPicBorder {
+	border: 1px #999999;
+}
+.MCsupportList {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 14px;
+}
+.MCnoBold {
+	font-weight: normal;
+}
+.MCtopsellerbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+}
+.MCwhatsnew {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999999;
+	line-height: 19px;
+}
+.MCusb2tableL {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #68CE3E;
+	padding-right: 30px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	background-position: center;
+	text-align: center;
+	padding-top: 0px;
+}
+.MCusb2tableR {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #68CE3E;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 30px;
+	background-position: center;
+	text-align: center;
+	padding-top: 0px;
+}
+.MCsideHiLite {
+	background-color: #CCCCCC;
+}
+.MCspecsText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	line-height: 14px;
+}
+.MCbodyheading2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #003399;
+}
+.MCbodyquote2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #003399;
+	line-height: 17px;
+}
+.MCul1 {
+	list-style-position: outside;
+	list-style-type: circle;
+}
+.MCnewHeadings {
+	font-family: "Arial Narrow", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	color: #003399;
+	line-height: 32px;
+}
+.MCbodyheading3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #003399;
+}
+.MCsidebartext4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 14px;
+}
+.left {
+	vertical-align: middle;
+	float: left;
+}
+.MCpicspacerR {
+	margin-left: 20px;
+	float: right;
+	margin-bottom: 17px;
+	clear: right;
+}
+.MCsections {
+	margin-bottom: 25px;
+	clear: left;
+}
+.MCbodytextIntro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	line-height: 19px;
+}
+.MCourFontHeading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+}
+.MCbodytextCopyX {
+	font-family: "Arial Narrow", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #003399;
+	line-height: 20px;
+	font-weight: 200;
+}
+.MCinfotable3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	line-height: 17px;
+}
+.MCchartPadding {
+	padding: 8px;
+	margin: 0px;
+}
+.MCprTable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	line-height: 13px;
+}
+.MCcopyrightFooter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 14px;
+	color: #999999;
+	width: 680px;
+	clear: both;
+	padding: 25px;
+}
+.MCspecsTable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 14px;
+	margin: 25px;
+}
+.MCresellerTable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	line-height: 13px;
+}
+.MC_pageBlock {
+	background-color: #FFFFFF;
+	width: 730px;
+	margin: 0 auto;
+	text-align: left;
+}
+.MC_contentBlock {
+	width: 445px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	float: left;
+	clear: left;
+	margin-right: 25px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 17px;
+	color: #000000;
+}
+.MC_sidebarBlock {
+	width: 210px;
+	margin-right: 25px;
+	float: right;
+	clear: right;
+	margin-bottom: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 14px;
+	color: #000000;
+}
+.MC_bubble445 {
+	margin-bottom: 25px;
+	width: 445px;
+	clear: both;
+	float: inherit;
+}
+.MC_sideRoundGray_BL {
+	background-color: #EEEEEE;
+	width: 210px;
+	float: right;
+	clear: right;
+	margin-bottom: 20px;
+	background-image: url(../site_gfx/corner10_g1_r2_c1.gif);
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+}
+.MC_sideRoundGray_BR {
+	background-image: url(../site_gfx/corner10_g1_r2_c2.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+}
+.MC_sideRoundGray_TL {
+	background-image: url(../site_gfx/corner10_g1_r1_c1.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+.MC_sideRoundGray_TR {
+	background-image: url(../site_gfx/corner10_g1_r1_c2.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+	padding: 15px;
+}
+.MC_bubble445_OL_T {
+	width: 445px;
+	float: left;
+	clear: left;
+	background-image: url(../site_gfx/Bubble445_OL_T.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	height: 15px;
+}
+.MC_bubble445_OL_B {
+	width: 445px;
+	clear: both;
+	background-image: url(../site_gfx/Bubble445_OL_B.gif);
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+	height: 15px;
+}
+.MC_bubble445_OL_M {
+	width: 415px;
+	float: left;
+	clear: left;
+	background-image: url(../site_gfx/Bubble445_OL_M.gif);
+	background-repeat: repeat-y;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.MC_bubble210 {
+	margin-bottom: 20px;
+	width: 210px;
+	clear: both;
+	float: inherit;
+	background-color: #EEEEEE;
+}
+.MC_bubble210_Gr_B {
+	width: 210px;
+	background-image: url(../site_gfx/Bubble210_Gr_B.gif);
+	background-repeat: no-repeat;
+	background-position: 0 100%;
+	height: 15px;
+	clear: both;
+}
+.MC_bubble210_Gr_M {
+	width: 180px;
+	float: left;
+	clear: left;
+	padding-right: 15px;
+	padding-left: 15px;
+	background-color: #EEEEEE;
+}
+.MC_bubble210_Gr_T {
+	width: 210px;
+	float: left;
+	clear: left;
+	background-image: url(../site_gfx/Bubble210_Gr_T.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	height: 15px;
+}
+.MC_contentSections {
+	margin-bottom: 25px;
+	clear: both;
+}
+.MC_bottomNav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	line-height: 16px;
+	font-weight: bold;
+	clear: both;
+	width: 680px;
+	top: 0px;
+	background-color: #EEEEEE;
+	padding-top: 15px;
+	padding-right: 25px;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	text-align: center;
+	margin: 0 auto;
+}
+.MC_bottomNavWrap {
+	background-color: #EEEEEE;
+	width: 100%;
+	clear: both;
+}
+.MC_pageBlockWrap {
+	background-color: #FFFFFF;
+	width: 100%;
+	display: block;
+}
+
+.MC_pageBlock680 {
+	background-color: #FFFFFF;
+	text-align: left;
+	width: 680px;
+	margin: 0 auto;
+}
+.MC_contentBlock2 {
+	width: 445px;
+	margin-bottom: 25px;
+	float: left;
+	clear: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 17px;
+	color: #000000;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.MC_bodyCtr {
+	text-align: center;
+}
+.MC_contentBlock3 {
+	width: 445px;
+	margin-bottom: 25px;
+	float: left;
+	clear: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 17px;
+	color: #000000;
+}
+.MCbodyIntroText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+	line-height: 18px;
+}
+.MCpicspacerL2 {
+	float: left;
+	margin-bottom: 17px;
+	margin-right: 5px;
+	clear: none;
+}
+.MClistItemSpacer {
+	margin-bottom: 12px;
+}
+hr {
+	color: #999999;
+}
+.MCpicspacerL3 {
+	float: left;
+	margin-bottom: 17px;
+	margin-right: 15px;
+	clear: none;
+}
+.MCpicspacerR3 {
+	margin-left: 5px;
+	float: right;
+	margin-bottom: 5px;
+	clear: both;
+}
+.MCpicspacerR2 {
+	margin-left: 5px;
+	float: right;
+	margin-bottom: 5px;
+	clear: both;
+}
+.MCsummaryList {
+	margin: 0;
+	padding: 0;
+	list-style:disc outside none;
+	margin-left: 1.5em;
+	padding-left: 0px;
+}
+.MCsummaryList li {
+	margin-bottom: 0.75em;
+}
+
+img {
+	border: none;
+	outline: none;
+}
+
+.novus h2 {
+	font-family: NimbusSanNovCon-Med, Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	color: #039;
+	font-weight: normal;
+	line-height: 1.25;
+	margin-bottom: 0px;
+}
+
+.novus h3 {
+	font-family: NimbusSanNovCon-Med, Helvetica, Arial, sans-serif;
+	font-size: 23px;
+	color: #039;
+	font-weight: normal;
+	line-height: 1.25;
+	margin-bottom: 0px;
+}
+
+.novus h4 {
+	font-family: NimbusSanNovCon-Med, Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	color: #039;
+	font-weight: normal;
+	line-height: 1.25;
+	margin-bottom: 0px;
+	margin-top: 7px;
+}
+
+.novus .PhoneTabs h4 {
+	font-size: 32px;
+	margin-top: 11px;
+}
+
+.novus h5 {
+	font-family: NimbusSanNovCon-Med, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	margin-bottom: -7px;
+}
+
+.sidebar h3 {
+	font-size: 23px;
+	font-family: NimbusSanNovCon-Med, Helvetica, Arial, sans-serif;
+	margin-top: 0px;
+}
+
+.novus h2 + p {
+	margin-top: 0px;
+}
+
+.novus h3 + p {
+	margin-top: 0px;
+}
+
+.NimbusSanNovCon-Reg { font-family: NimbusSanNovCon-Reg; }
+.NimbusSanNovCon-Med { font-family: NimbusSanNovCon-Med; }
+.NimbusSanNovCon-SemBol { font-family: NimbusSanNovCon-SemBol; }
+.NimbusSanNovConD-Reg { font-family: NimbusSanNovConD-Reg; }
+.NimbusSanNovConD-Med { font-family: NimbusSanNovConD-Med; }
+.NimbusSanNovConD-SemBol { font-family: NimbusSanNovConD-SemBol; }
+.NimbusSanNovCon-LigIta { font-family: NimbusSanNovCon-LigIta; }
+.NimbusSanNovCon-RegIta { font-family: NimbusSanNovCon-RegIta; }
+.NimbusSanNovCon-MedIta { font-family: NimbusSanNovCon-MedIta; }
+.NimbusSanNovCon-SemBolIta { font-family: NimbusSanNovCon-SemBolIta; }
+
+.novus2 h2 {
+	font-family: NimbusSanNovConD-Reg, Helvetica, Arial, sans-serif;
+	font-size: 28px;
+	color: #039;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 1.25;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+.novus2 h2 strong {
+	font-family: NimbusSanNovConD-SemBol, Helvetica, Arial, sans-serif;
+	font-weight: normal;
+}
+
+.novus2 h2 em {
+	font-weight: normal;
+	font-style: normal;
+	color:#F90;
+}
+
+.novus2 h2 a:hover {
+	text-decoration: none;
+}
+
+.novus2 h2 + p {
+	margin-top: 5px;
+}
+
+/* NAVIGATION BAR styles - PHONE --------------*/
+
+#header-wrap-phone {
+	width: 100%;
+	background-color: #000;
+	height: 100px;	
+}
+
+.container-phone {
+}
+
+
+#nav-bar-phone {
+	width: 730px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: #000;
+}
+#nav-bar-phone ul {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+#nav-bar-phone li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+#nav-bar-phone li a {
+	display: block;
+	text-indent: -9999px;
+	height: 100px;
+	background-image: url(http://matias.ca/resources/navbar/MC_navbar_phone.png);	
+	background-repeat: no-repeat;
+}
+
+#nav-phone-home { width: 128px; }
+#nav-phone-products { width: 143px; }
+#nav-phone-order { width: 105px; }
+#nav-phone-stores { width: 115px; }
+#nav-phone-press { width: 108px; }
+#nav-phone-contact { width: 131px; }
+
+#nav-phone-home a,
+#nav-phone-home a:link,
+#nav-phone-home a:visited {
+	background-position: 0px 0px;
+}
+#nav-phone-home a,
+#nav-phone-home a:focus,
+#nav-phone-home a:hover,
+#nav-phone-home a:active {
+	background-position: 0px -100px;
+}
+
+
+#nav-phone-products a,
+#nav-phone-products a:link,
+#nav-phone-products a:visited {
+	background-position: -128px 0px;
+}
+#nav-phone-products a,
+#nav-phone-products a:focus,
+#nav-phone-products a:hover,
+#nav-phone-products a:active {
+	background-position: -128px -100px;
+}
+
+
+#nav-phone-order a,
+#nav-phone-order a:link,
+#nav-phone-order a:visited {
+	background-position: -271px 0px;
+}
+#nav-phone-order a,
+#nav-phone-order a:focus,
+#nav-phone-order a:hover,
+#nav-phone-order a:active {
+	background-position: -271px -100px;
+}
+
+
+#nav-phone-stores a,
+#nav-phone-stores a:link,
+#nav-phone-stores a:visited {
+	background-position: -376px 0px;
+}
+#nav-phone-stores a,
+#nav-phone-stores a:focus,
+#nav-phone-stores a:hover,
+#nav-phone-stores a:active {
+	background-position: -376px -100px;
+}
+
+
+#nav-phone-press a,
+#nav-phone-press a:link,
+#nav-phone-press a:visited {
+	background-position: -491px 0px;
+}
+#nav-phone-press a,
+#nav-phone-press a:focus,
+#nav-phone-press a:hover,
+#nav-phone-press a:active {
+	background-position: -491px -100px;
+}
+
+#nav-phone-contact a,
+#nav-phone-contact a:link,
+#nav-phone-contact a:visited {
+	background-position: -599px 0px;
+}
+#nav-phone-contact a,
+#nav-phone-contact a:focus,
+#nav-phone-contact a:hover,
+#nav-phone-contact a:active {
+	background-position: -599px -100px;
+}
+
+
+
+
+/* NAVIGATION BAR styles - PC or Mac --------------*/
+
+#header-wrap {
+	width: 100%;
+	background-color: #000;
+	height: 50px;
+	
+}
+
+#nav-bar {
+	margin-left: auto;
+	margin-right: auto;
+	width: 730px;
+	height: 50px;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: #000;
+}
+#nav-bar ul {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+#nav-bar li {
+	float: left;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+#nav-bar li a {
+	display: block;
+	text-indent: -9999px;
+	height: 50px;
+	background-image: url(http://matias.ca/resources/navbar/MC_navbar_PC-Mac.png);	
+	background-repeat: no-repeat;
+}
+
+#nav-home { width: 90px; left: 11px; }
+#nav-products { width: 85px; }
+#nav-order { width: 62px; }
+#nav-stores { width: 85px; }
+#nav-press { width: 90px; left: 231px; }
+#nav-contact { width: 78px; left: 231px; }
+
+
+#nav-home a,
+#nav-home a:link,
+#nav-home a:visited {
+	background-position: -11px 0px;
+}
+#nav-home a,
+#nav-home a:focus,
+#nav-home a:hover,
+#nav-home a:active {
+	background-position: -11px -50px;
+}
+
+
+#nav-products a,
+#nav-products a:link,
+#nav-products a:visited {
+	background-position: -90px 0px;
+}
+#nav-products a,
+#nav-products a:focus,
+#nav-products a:hover,
+#nav-products a:active {
+	background-position: -90px -50px;
+}
+
+
+#nav-order a,
+#nav-order a:link,
+#nav-order a:visited {
+	background-position: -175px 0px;
+}
+#nav-order a,
+#nav-order a:focus,
+#nav-order a:hover,
+#nav-order a:active {
+	background-position: -175px -50px;
+}
+
+
+#nav-stores a,
+#nav-stores a:link,
+#nav-stores a:visited {
+	background-position: -236px 0px;
+}
+#nav-stores a,
+#nav-stores a:focus,
+#nav-stores a:hover,
+#nav-stores a:active {
+	background-position: -236px -50px;
+}
+
+
+#nav-press a,
+#nav-press a:link,
+#nav-press a:visited {
+	background-position: -551px 0px;
+}
+#nav-press a,
+#nav-press a:focus,
+#nav-press a:hover,
+#nav-press a:active {
+	background-position: -551px -50px;
+}
+
+#nav-contact a,
+#nav-contact a:link,
+#nav-contact a:visited {
+	background-position: -641px 0px;
+}
+#nav-contact a,
+#nav-contact a:focus,
+#nav-contact a:hover,
+#nav-contact a:active {
+	background-position: -641px -50px;
+}
+
+.MCspecsTable2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 14px;
+	background-color: #EEE;
+	border: 1px solid #999;
+	border-collapse: collapse;
+}
+
+.MCspecsTable2 td {
+	border: 1px solid #999;
+	border-right: 1px solid #999;
+	padding: 10px;
+}
+
+.MCspecsTable2 h4 {
+	margin-top: 0px;
+}
+
+#mfk-chart tr {
+	background-color: #FFF;
+}
+
+.chart-heading {
+	background-color: #EEE;
+}
+
+#mfk-chart blockquote {
+	margin: 0px 0px 0px 10px;
+	padding: 0px;
+}
+
+.mfk-chart-model {
+	width: 80px;
+}	
+
+:focus {
+    outline: 0;
+}
